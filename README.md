@@ -26,7 +26,7 @@
 - 🔬 **Deep Dive into AI & ML**  
 
 ## 🚀 Projects  
-🔹 [**ShanksBot**](https://github.com/your-repo) - Java bot for prime number decimal analysis  
+🔹 [**ShanksBot**](https://github.com/ianmolaryan/ShanksBot_java) - Java bot for prime number decimal analysis  
 🔹 [**Android Chat App**](https://github.com/your-repo) - Secure messaging with unique user IDs  
 🔹 [**GitHub Mastery Guide**](https://github.com/your-repo) - Learn GitHub from zero to hero  
 
