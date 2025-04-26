@@ -35,6 +35,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical" width="48%"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=radical" width="48%"/>
 </p>
+<a href="https://data.typeracer.com/pit/profile?user=ianmolaryan&ref=badge" target="_top"><img src="https://data.typeracer.com/misc/badge?user=ianmolaryan" border="0" alt="TypeRacer.com scorecard for user ianmolaryan"/></a>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical" width="48%"/>
